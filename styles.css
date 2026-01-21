@@ -34,3 +34,10 @@ a {
 }.signup {
   background-color: #42b72a;
 }
+input{
+width:290px;
+	height:40px;
+	border-radius:3px;
+	padding-left:15px;
+	
+}
